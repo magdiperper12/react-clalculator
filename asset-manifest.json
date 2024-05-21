@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-clalculator/static/css/main.92efae1e.css",
+    "main.js": "/react-clalculator/static/js/main.f64ba625.js",
+    "index.html": "/react-clalculator/index.html",
+    "main.92efae1e.css.map": "/react-clalculator/static/css/main.92efae1e.css.map",
+    "main.f64ba625.js.map": "/react-clalculator/static/js/main.f64ba625.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92efae1e.css",
+    "static/js/main.f64ba625.js"
+  ]
+}
